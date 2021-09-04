@@ -5,4 +5,5 @@
 4. To run the codes, please install following libraries. TensforFlow-gpu 1.14, numpy, scipy, matplotlib
 5. Each .py file is self-contained for the convinece of running and can be run directly.
 6. Please change the paths of the saver objects according to your need. You can also run the codes as they are and they will generate the folders in your running direcotry.
-7. Each Folder has two files. The files with suffix "_plot" are used for post processing after the script has run.
+7. Each Folder has two files, with _main and _plot. First run the _main file to generate optimal weights for the model. Then, run the _plot file for post-processing using the optimal weights.
+
