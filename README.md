@@ -1,4 +1,4 @@
-# Linear_Elastic_Mechanics
+# PINN_For_Linear_Elastic_Mechanics
 1. Physics Informed Neural Networks To Solve Problems In Solid Mechanics
 2. All the codes in this repository are written based on TensorFlow-gpu 1.14. 
 3. It is recommended that you set up a new environment in conda and install the libraries in that environment.
